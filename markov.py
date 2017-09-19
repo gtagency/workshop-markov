@@ -17,18 +17,20 @@ def tokenizer(raw_data):
 
 def walker(graph):
     current = tuple(random.choice(list(graph.keys())))
-    yield current[0]
+    for token in current:
+        yield token
     while True:
         try:
-            current = tuple([random.choice(graph[current])])
+            new_token = random.choice(graph[current])
+            current = tuple(list(current[1:]) + [new_token])
+            yield new_token
         except IndexError:
             raise StopIteration
-        yield current[0]
 
 class Chain:
-    def __init__(self, raw_data):
+    def __init__(self, raw_data, ngrams = 1):
         tokens = tokenizer(raw_data)
-        self.train(tokens, 1)
+        self.train(tokens, ngrams)
 
     def train(self, tokens, ngrams):
         chain = defaultdict(list)
@@ -40,14 +42,18 @@ class Chain:
         self.chain = chain
 
     def walk(self, n):
+        # for token, _ in zip(walker(self.chain), range(n)):
+            # print(token)
         return [token for token, _ in zip(walker(self.chain), range(n))]
 
+def load_multiple(files):
+    datasets = []
+    for file_name in files:
+        with open('datasets/' + file_name + '.txt', 'r') as f:
+            datasets.append(f.read())
+    return '\n'.join(datasets)
+
 if __name__ == "__main__":
-    with open('datasets/rickle_in_time.txt', 'r') as f:
-        raw_data = f.read()
-
-    c = Chain(raw_data)
-    print(' '.join(c.walk(50)))
-
-
-
+    raw_data = load_multiple(['aliens', 'agency', 'agency'])
+    c = Chain(raw_data, 1)
+    print(' '.join(c.walk(100)))
