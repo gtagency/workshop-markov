@@ -1,0 +1,70 @@
+Hi friends! Hope you're all having a good start to your week.
+Come to our project meeting this Tuesday @ 6pm CCB 346 to work more on our autonomous car or to join the beginner's project team.
+Also, this Wednesday @ 6:30 CCB 345 we will be expanding on our Neural Networks talk from last week and look at some cool use cases. Be there or be square!
+
+Hey everyone! Hurricane or shine The Agency pulls through, come to CCB 346 tonight at 6:30 pm for an Intro to Neural Networks using Numpy. Hope to see you all there!
+
+Hey everyone! Welcome back! We will be having our first project meeting of the semester tomorrow @ 6:00pm COC 346 and our first talk this Wednesday @ 6:30pm COC 345.
+Our project meeting will revolve around introducing the first of our beginner projects (pathfinding for game AI) and working on buzzmobile - our autonomous vehicle, so regardless of your level, come through!
+The talk will be an introduction to the club and a primer on ~ machine learning ~ (also there will be PIZZA and SNACKS).
+Excited to see you all there
+
+Hey everyone! Today was the last meeting of the year so we will see you all in the fall. Thank you so much for making this semester so fun and informative. We hope you all have amazing summers and rejoin us in the fall for some more ML fun! HAGS 😊
+Also, here are some pictures we took with the car!
+
+Hey everyone, this week's talk will be on Graphical Models and Other Oddities. If you are curious what the "other oddities" are then come through and find out! The talk will be Wednesday at 6:30 pm at CCB 346 per usual.
+Also, we will be having our project meeting this Tuesday at CCB 345 at 6:00 pm.
+
+Hey everyone! This week instead of our usual meeting on Wednesday we instead have the opportunity to attend an event hosted by ML@GT.
+The gathering will take place, Wednesday, April 12th at 5-7pm at Ormsby's 1170 Howell Mill Rd, Atlanta Ga 30318. If you would like to attend and are under 21, please let us know so that we can relay it to the organizers.
+We will also be having our usual project meeting this Tuesday, CCB 345 at 6pm. Hope to see you there! 
+
+Hey everyone! This Wednesday in CCB 346 at 6:30 pm we will be delving into the 👻 spooky 👻 area of "nonneural learning" with a talk on Graphical Models.
+Also, tonight we will have our project meeting at 6pm CCB 345.
+
+ok change of plans: we're talking about topological data analysis (how does topology apply to extracting features from data ) still big #spook tho
+
+Hey everyone, so instead of the usual talk this Wednesday, we will be having TensorFlow contributor Sergio Guadarrama video call us to present on his work (it will be at the same location and time as our usual meetings). The link for the event can be found here: https://www.facebook.com/events/217161645427271/
+Also, don't forget, we will be having our weekly project meeting at CCB 345, Tuesday, at 6:00 pm.
+
+Sergio Guadarrama works full time as a contributor to Google's TensorFlow library and before that he worked as a researcher at UC Berkeley on Caffe, another deep-learning framework. He will be video calling us on March 29th to give his presentation titled "Machine Learning for Everyone".
+This presentation is a great chance for you to learn more about what it's like to conduct research in industry and we will open up for questions at the end of the presentation - so you are encouraged to come up with some!
+
+Hey everyone! So this Wednesday at 6:30 pm in CCB 346 there will be an Introduction to Unsupervised Learning presentation. Also, this Tuesday we will have our usual project meeting at 6 pm, CCB 345, so be there or be square.
+
+Hey everyone! Come to CCB 346 at 6:30 pm this Wednesday if you want to learn about Model Transparency in Neural Networks. Also, this Tuesday we will be having our project meeting in CCB 345 at 6pm.
+
+Hey all! We will be having a talk on Adversarial Networks this Wednesday, CCB 346 at 6:30 pm as well as our usual project meeting at 6 pm, CCB 345 on Tuesday.
+On a separate note, let's all give a 👏👏👏 to Rapha's talk on TensorFlow last week. You can find a recording of it here in case you missed it: https://youtu.be/DYlHnxfrrZY
+Also, this week is PART TWO of the TensorFlow series, so come to Klaus 1443 at 5:30 pm this Thursday if you want to learn how to code your very own neural network! The event page can be found here: https://www.facebook.com/events/1292946904126445/
+
+This Wednesday come to CCB 346 at 6:30pm if you are interested in learning more about image captioning use Recurrent Neural Networks and Convolutional Neural Networks.
+Also, this Tuesday we will be having our usual project meeting at CCB 345 at 6pm. Hope to see you all there! 
+
+Hey guys, want to learn how to implement a Deep Neural Network in TensorFlow? Feel like this dog right now? If so, come to the Deep Learning Workshop this Thursday, Klaus 1443 from 6-8 pm. See the event here: https://www.facebook.com/events/271330269963665/
+
+Hey everyone! 💕 Feeling a love for Halite bots and autonomous cars?💕 Need a Valentine in your life?(we have an extra)💕
+If so, come to our project meeting tomorrow, February 14th, 6 pm, Room 345, to find your love – of machine learning.
+Also, this Wednesday there will be a lecture on Reinforcement Learning and other types of Meta-learning, in Room 346, at 6:30 pm. Then, after the lecture, we will have our FIRST paper reading group meeting, so join the deep-papers Slack channel if interested.
+
+Hey guys! Get excited to learn about how Zero-Shot Learning is used in Google Translate this Wednesday, 6:30pm, at CCB 346! Also, this Tuesday we will be continuing working on our projects at 6pm, CCB 345. 
+
+🎉 FIRST meetings of the semester this week!🎉
+Tuesday, 6pm in CCB 345 we'll start this semester's projects and Wednesday, at 6:30pm in CCB 346 we'll have our first lecture.
+Hope to see you all there! 
+
+Hey everyone! So due to career fair we will not be meeting this week. However, we will be back next week with our first project day of the semester on Tuesday, January 31st and our first lecture on Wednesday. Hope to see you there!
+
+Hey everyone! So this week we aren’t having a project day on Tuesday, and on Wednesday we will have a booth at the COC Orgs Fair instead of our usual meeting.
+The Orgs Fair will be on the 3rd floor of COC at 5pm. There will be other clubs there as well, but if you want to learn more about club history, our projects, and eat ice cream you should definitely swing by our booth!
+Also after the fair there will be video/board games. Hope to see you all there! 🍦 🎮
+
+Hey everyone, we hope you had a great break! ❄️ ❄️ ❄️ We will be resuming our meetings next week: Tuesdays at 6 and Wednesdays at 6:30. Hope to see you there!
+
+Elections happened this week!
+Congrats to our new officers:
+External Affairs - Raphael Gontijo Lopes
+Internal Affairs - Diptodip Deb
+Secretary - Sahit Chintalapudi
+Treasurer - Ru Yi (Marc) Marone
+Communications - Valentine Wilson
